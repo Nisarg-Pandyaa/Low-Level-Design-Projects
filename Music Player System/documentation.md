@@ -43,3 +43,10 @@
 <h2>DAY 4-7</h2>
 
 - Write Code.
+
+
+----
+
+
+<h2>Conclusion</h2>
+
